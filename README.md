@@ -8,7 +8,7 @@
 
 	$ node app.js
 	
-You can view the site locally at
+You can view the site locallyt
 
 [http://localhost:3000](http://localhost:3000) (or a different port number)
 
